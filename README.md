@@ -1,6 +1,6 @@
 # SOLID Principles in Java (Examples)
 
-This repository contains examples of the **SOLID Design Principles** implemented in Java. Each principle is demonstrated with **bad** and **good** examples to explain why SOLID is important.
+This repository contains examples of the **SOLID Design Principles** implemented in Java. Each principle is demonstrated **good** examples to explain why SOLID is important.
 
 ---
 
