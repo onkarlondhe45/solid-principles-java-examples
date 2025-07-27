@@ -40,5 +40,3 @@ SOLID is an acronym for five important design principles in Object-Oriented Prog
 
 ---
 
-## 📂 Project Structure
-
